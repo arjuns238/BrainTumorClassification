@@ -4,7 +4,7 @@ This project is focused on developing an AI-based system for classifying brain t
 
 ## Overview
 
-The project utilizes a Jupyter Notebook (`braintumorclassification.ipynb`) that covers the complete pipeline from data preprocessing to model training and evaluation. By leveraging deep learning, this project aims to automate and streamline the analysis of brain MRI scans, potentially aiding medical professionals in making timely decisions.
+By leveraging deep learning, this project aims to automate and streamline the analysis of brain MRI scans, potentially aiding medical professionals in making timely decisions.
 
 ## Dataset
 
