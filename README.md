@@ -25,6 +25,10 @@ By leveraging deep learning, this project aims to automate and streamline the an
 ## Results
 The model demonstrates promising results in classifying brain tumor images. After training, it achieved an accuracy of 0.97% on the validation set. Detailed metrics and visualizations can be found within the notebook.
 
+<p align="center">
+<img src="image2.png" alt="Alt text" width="70%">
+</p>
+
 ## Future Work
 - Data Augmentation: Implement additional techniques to increase the dataset size and variability.
 - Deployment: Explore deploying the model as a web service for real-time predictions.
