@@ -1,6 +1,6 @@
 # Brain Tumor Classification
 
-This personal project is focused on developing an AI-based system for classifying brain tumor images. The goal is to create a tool that can assist in early diagnosis by accurately distinguishing between 4 classes - pituitary tumor, glioma tumor, meningioma tumor, and non-tumor cases using Convolutional Neural Networks.
+This project is focused on developing an AI-based system for classifying brain tumor images. The goal is to create a tool that can assist in early diagnosis by accurately distinguishing between 4 classes - pituitary tumor, glioma tumor, meningioma tumor, and non-tumor cases using Convolutional Neural Networks.
 
 ## Overview
 
@@ -10,9 +10,10 @@ The project utilizes a Jupyter Notebook (`braintumorclassification.ipynb`) that 
 
 - **Data Description:** The dataset comprises MRI images labeled according to the presence of each of the 3 brain tumors or the absence of brain tumors.
 <p align="center">
-<img src="image.png" alt="Alt text" width="80%">
+<img src="image.png" alt="Alt text" width="70%">
 </p>
-- **Source:** *([Dataset Link](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri))*
+
+- **Source:** ([Dataset Link](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri))
 
 ## Technologies Used
 
